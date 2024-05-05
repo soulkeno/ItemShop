@@ -1,19 +1,19 @@
 {
   "//": "BR Item Shop Config",
   "daily1": {
-    "itemGrants": ["AthenaCharacter:CID_620_Athena_Commando_L_BigChuggus"],
-    "price": 0
+    "itemGrants": ["CID_399_Athena_Commando_F_AshtonBoardwalk"],
+    "price": 1500
   },
   "daily2": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_179_StarWand"],
-    "price": 800
+    "itemGrants": ["Pickaxe_ID_202_AshtonBoardwalk"],
+    "price": 500
   },
   "daily3": {
-    "itemGrants": ["AthenaItemWrap:Wrap_128_FragmentedGlowEclipse"],
+    "itemGrants": ["AthenaItemWrap:Wrap_233_ElectricBurst"],
     "price": 400
   },
   "daily4": {
-    "itemGrants": ["AthenaCharacter:CID_715_Athena_Commando_F_TwinDark","AthenaBackpack:BID_489_TwinDark"],
+    "itemGrants": ["AthenaCharacter:CID_720_Athena_Commando_F_StreetFashionEmerald],
     "price": 1200
   },
   "daily5": {
@@ -21,19 +21,19 @@
     "price": 500
   },
   "daily6": {
-    "itemGrants": ["AthenaDance:EID_Griddle_Beyond"],
-    "price": 0
+    "itemGrants": ["EID_TakeTheElf"],
+    "price": 200
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_703_Athena_Commando_M_Cyclone","AthenaBackpack:BID_468_Cyclone"],
-    "price": 0
+    "itemGrants": ["AthenaCharacter:CID_760_Athena_Commando_F_NeonTightSuit","CID_760_Athena_Commando_F_NeonTightSuit"],
+    "price": 1500
   },
   "featured2": {
-    "itemGrants": ["AthenaCharacter:CID_761_Athena_Commando_M_CycloneSpace","AthenaBackpack:BID_520_CycloneUniverse"],
-    "price": 0
+    "itemGrants": ["CID_397_Athena_Commando_F_TreasureHunterFashion","BID_220_FarmerFemale"],
+    "price": 800
   },
    "featured3": {
-    "itemGrants": ["AthenaPickaxe:Pickaxe_ID_359_CycloneMale"],
-    "price": 0
+    "itemGrants": ["AthenaGlider:Glider_ID_206_Donut"],
+    "price": 1000
    }
 }
